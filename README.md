@@ -1,2 +1,2 @@
 ### Hi there 👋
-My name is Nikolay Bondarenko, I am a novice FRONT-END DEVELOPER.
+My name is Niсolai Bondarenсo, I am a novice FRONT-END DEVELOPER.
