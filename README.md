@@ -9,8 +9,8 @@ ___Position: Front-End (React JS)___
 
 ____
 
-___Contact:
-E-mail: nicbondarenco@gmail.com
-Tel: +7(985)719-30-10
+___Contact:___
+___E-mail: nicbondarenco@gmail.com___
+___Tel: +7(985)719-30-10___
 
 ____
