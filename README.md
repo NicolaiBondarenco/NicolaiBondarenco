@@ -5,7 +5,7 @@ ___My name is Niсolai Bondarenсo. I'm 25 years old and I'm a novice FRONT-END 
 ____
 
 
-___Position:___
+## ___Position:___
 Front-End (React JS)
 
 ____
