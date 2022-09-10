@@ -17,7 +17,7 @@ ____
 
 
 ___Technical Skills:___
-* HTML (BEM methodology)
+___* HTML (BEM methodology)
 * CSS (Sass, Less), CSS Modules and making layouts (Positioning, Display, Box Model, CSS Grid,
 Flex Box).
 * JavaScript, ES6+,TypeScript
