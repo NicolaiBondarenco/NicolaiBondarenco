@@ -28,3 +28,10 @@ Flex Box).
 * Fetch/Ajax response
 * Package manager npm and yarn (NodeJS)
 * Figma, Adobe Photoshop
+
+____
+
+___Education:
+2014 – 2018 Moscow Institute of Entrepreneurship and Law
+Full-time education
+Specialty: economics
