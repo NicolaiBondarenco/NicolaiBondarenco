@@ -42,8 +42,8 @@ ____
 ## ___Experience:___
 Developed several own projects using the new ES6 standards, an updated version of Redux - “Redux Toolkit”, which allows you to write more efficient code, speed up the development process.
 #### Link to github with my works:
-- https://github.com/NicolaiBondarenco?tab=repositories
-Course:
+- https://github.com/NicolaiBondarenco?tab=repositories\
+#### Course:
 * HTML, CSS: “From0To1”
 * Front-End course on Udemy
 * JavaScript
