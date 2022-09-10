@@ -9,14 +9,14 @@ ___Position: Front-End (React JS)___
 
 ____
 
-___##Contact:\
+## ___Contact:\
 E-mail: nicbondarenco@gmail.com\
 Tel: +7(985)719-30-10___
 
 ____
 
 
-___Technical Skills:___
+## ___Technical Skills:___
 * HTML (BEM methodology)
 * CSS (Sass, Less), CSS Modules and making layouts (Positioning, Display, Box Model, CSS Grid,
 Flex Box).
@@ -31,7 +31,7 @@ Flex Box).
 
 ____
 
-___Education:\
+## ___Education:\
 2014 – 2018 Moscow Institute of Entrepreneurship and Law\
 Full-time education\
 Specialty:___ economics
