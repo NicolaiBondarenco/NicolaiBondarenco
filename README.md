@@ -55,5 +55,5 @@ Developed several own projects using the new ES6 standards, an updated version o
 ____
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/173/174/png-transparent-computer-icons-arrow-arrow-text-triangle-vector-icons.png" width="350" title="hover text">
+  <img src="https://akush.spb.ru/Images/strelkaVverh.jpg" width="20" title="hover text">
 </p>
