@@ -32,6 +32,7 @@ Flex Box).
 
 ____
 
+
 ## ___Education:___
 2014 – 2018 Moscow Institute of Entrepreneurship and Law\
 Full-time education\
@@ -53,3 +54,10 @@ Developed several own projects using the new ES6 standards, an updated version o
 * React-router
 
 ____
+
+
+## ___Languages:___
+* Russian: native
+* English: A1
+* Ukrainian: B1
+* Romanian: A1
