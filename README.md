@@ -31,7 +31,7 @@ Flex Box).
 
 ____
 
-___Education:
+___Education:\
 2014 – 2018 Moscow Institute of Entrepreneurship and Law\
 Full-time education\
-Specialty: economics___
+Specialty:___ economics
