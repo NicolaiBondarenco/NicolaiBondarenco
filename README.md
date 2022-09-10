@@ -1,6 +1,6 @@
 ### ___Hi there 👋___
 
-___My name is Niсolai Bondarenсo. I'm 25 years old and I'm a novice FRONT-END DEVELOPER (React JS). I am looking for an opportunity to implement the acquired knowledge and even more I want to acquire new ones.___
+___My name is Niсolai Bondarenсo. I'm 25 years old and I'm a novice FRONT-END DEVELOPER (React JS). I am looking for an opportunity to implement the acquired knowledge and even more I want to acquire new ones. I am ambitious, purposeful. I am ready to continue my studies, adopt the knowledge of more experienced and qualified colleagues, and master new tools. I want to be part of a cohesive team in which I can be as useful as possible.___
 
 ____
 
