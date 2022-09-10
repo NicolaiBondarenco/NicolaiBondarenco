@@ -9,9 +9,9 @@ ___Position: Front-End (React JS)___
 
 ____
 
-## ___Contact:\
+## ___Contact:___
 E-mail: nicbondarenco@gmail.com\
-Tel: +7(985)719-30-10___
+Tel: +7(985)719-30-10
 
 ____
 
@@ -31,7 +31,7 @@ Flex Box).
 
 ____
 
-## ___Education:\
+## ___Education:___
 2014 – 2018 Moscow Institute of Entrepreneurship and Law\
 Full-time education\
-Specialty:___ economics
+Specialty: economics
