@@ -41,7 +41,7 @@ ____
 
 ## ___Experience:___
 Developed several own projects using the new ES6 standards, an updated version of Redux - “Redux Toolkit”, which allows you to write more efficient code, speed up the development process.
-### You can view my projects in the Repositories tab
+### You can view my projects in the Repositories tab <img src="https://akush.spb.ru/Images/strelkaVverh.jpg" max-width="20" title="hover text">
 #### Course:
 * HTML, CSS: “From0To1”
 * Front-End course on Udemy
@@ -55,5 +55,5 @@ Developed several own projects using the new ES6 standards, an updated version o
 ____
 
 <p align="center">
-  <img src="https://akush.spb.ru/Images/strelkaVverh.jpg" width="20" title="hover text">
+  <img src="https://akush.spb.ru/Images/strelkaVverh.jpg" max-width="20" title="hover text">
 </p>
