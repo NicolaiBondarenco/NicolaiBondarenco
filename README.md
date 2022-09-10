@@ -17,7 +17,7 @@ Tel: +7(985)719-30-10
 ____
 
 
-## ___Technical Skills:
+## ___Technical Skills:___
 * HTML (BEM methodology)
 * CSS (Sass, Less), CSS Modules and making layouts (Positioning, Display, Box Model, CSS Grid,
 Flex Box).
