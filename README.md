@@ -54,5 +54,6 @@ Developed several own projects using the new ES6 standards, an updated version o
 
 ____
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
+<p align="center">
+  <img src="https://w7.pngwing.com/pngs/173/174/png-transparent-computer-icons-arrow-arrow-text-triangle-vector-icons.png" width="350" title="hover text">
+</p>
