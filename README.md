@@ -52,3 +52,7 @@ Developed several own projects using the new ES6 standards, an updated version o
 * Hooks
 * React-router
 
+____
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
