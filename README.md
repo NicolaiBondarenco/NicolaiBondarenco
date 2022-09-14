@@ -28,6 +28,7 @@ Developed several own projects using the new ES6+ standards, an updated version 
 * Class and Function Components
 * Hooks
 * React-router
+* React Context
 
 ____
 
