@@ -43,6 +43,7 @@ Flex Box).
 * Redux Toolkit
 * GitHub and Git version control system
 * Fetch/Ajax response
+* Apollo GraphQL
 * Package manager npm and yarn (NodeJS)
 * Figma, Adobe Photoshop
 
