@@ -12,7 +12,7 @@ ____
 
 ## ___Contact:___
 E-mail: nicbondarenco@gmail.com\
-Tel: +7(985)719-30-10
+Tel: +37377717054
 
 ____
 
