@@ -60,6 +60,6 @@ ____
 
 ## ___Languages:___
 * Russian: native
-* English: A1
+* English: A2
 * Ukrainian: B1
 * Romanian: A1
