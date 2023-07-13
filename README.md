@@ -1,6 +1,7 @@
 ### ___Hi there 👋___
 
-___My name is Niсolai Bondarenсo. I'm 25 years old and I'm a FRONT-END DEVELOPER (React JS). I am looking for an opportunity to implement the acquired knowledge and even more I want to acquire new ones. I am ready to continue my studies, adopt the knowledge of more experienced and qualified colleagues, and master new tools. I want to be part of a cohesive team in which I can be as useful as possible. I've been doing Front-end for about 2 years. Developed several own projects using new ES6 standards, an updated version of Redux - “Redux Toolkit" for storing global state. Interacted with the Backend RESTful API to display data, generate orders and search for the right products. Thanks to the use of adaptive layout, projects can be used on all devices.___
+___My name is Niсolai Bondarenсo. I'm 25 years old and I'm a FRONT-END DEVELOPER (React JS). My commercial experience is 1 year on React, and I study React-Native on my own (there are examples of my work on GitHub) and Node JS Express. During my commercial experience, I have implemented routing, forms of collecting user information for identification. Sending/requesting data to the Back End. Forms for registration, user login. Drop-down windows, as well as displaying the loader while waiting for an asynchronous response.
+	Developed several own projects using new ES6 standards, an updated version of Redux - “Redux Toolkit” for storing global state. Interacted with the Backend RESTful API to display data, generate orders and search for the right products. Thanks to the use of adaptive layout, projects can be used on all devices.___
 
 ____
 
