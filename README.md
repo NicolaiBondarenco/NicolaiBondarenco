@@ -1,6 +1,6 @@
 ### ___Hi there 👋___
 
-___My name is Niсolai Bondarenсo. I'm 28 years old and I'm a FRONT-END DEVELOPER (React JS). More than two years in FrontEnd development. I worked for a year in BPay (Moldova payment system). And for a year and a half I have been working in Technology Oriented. I led project from scratch, participated in writing a custom UI library, playwright tests.___
+___My name is Niсolai Bondarenсo. I'm 28 years old and I'm a FRONT-END DEVELOPER (React JS). More than three years in FrontEnd development. I worked for a year in BPay (Moldova payment system). And for a year and a half I have been working in Technology Oriented. I led project from scratch, participated in writing a custom UI library, playwright tests.___
 
 ____
 
