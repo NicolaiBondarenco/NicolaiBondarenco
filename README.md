@@ -1,6 +1,19 @@
 ### ___Hi there 👋___
 
-___My name is Niсolai Bondarenсo. I'm 28 years old and I'm a FRONT-END DEVELOPER (React JS). More than three years in FrontEnd development. I worked for a year in BPay (Moldova payment system). And for a year and a half I have been working in Technology Oriented. I led project from scratch, participated in writing a custom UI library, playwright tests.___
+___My name is Niсolai Bondarenсo. I’m a full-stack developer with a strong focus on front-end development.
+I have experience working with React, Next.js, Node.js, and NestJS, building scalable web applications from scratch. At Technology Oriented, I led front-end development, contributed to a custom UI library, and implemented Playwright tests for automation. I also developed a multi-page e-commerce website for water filters with a shopping cart and order flow (fullstack).
+I value clean, maintainable code and enjoy creating fast, user-friendly interfaces that work seamlessly with backend logic.
+
+Technical skills:
+HTML,
+CSS,
+JavaScript, TypeScript
+React, Next
+Node Nest JS
+REST-API
+Playwright test,
+Storybook,
+Jira___
 
 ____
 
