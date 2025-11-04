@@ -1,6 +1,6 @@
 ### ___Hi there 👋___
 
-___My name is Niсolai Bondarenсo. I’m a full-stack developer with a strong focus on front-end development.
+My name is Niсolai Bondarenсo. I’m a full-stack developer with a strong focus on front-end development.
 I have experience working with React, Next.js, Node.js, and NestJS, building scalable web applications from scratch. At Technology Oriented, I led front-end development, contributed to a custom UI library, and implemented Playwright tests for automation. I also developed a multi-page e-commerce website for water filters with a shopping cart and order flow (fullstack).
 I value clean, maintainable code and enjoy creating fast, user-friendly interfaces that work seamlessly with backend logic.
 
@@ -13,7 +13,7 @@ Node Nest JS
 REST-API
 Playwright test,
 Storybook,
-Jira___
+Jira
 
 ____
 
